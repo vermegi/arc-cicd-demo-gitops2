@@ -1,9 +1,9 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: dev
+  name: dev2
 ---
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: stage
+  name: stage2
